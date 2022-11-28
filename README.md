@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center"> Hola 👋 , Soy Alex Rosas </h1>
+    <h1 align="center"> Hola 👋 , Soy Alex Diego Rosas </h1>
     <h3 align="center"> Un desarrollador web full stack de Perú, me encanta desarrollar aplicaciones web, los videojuegos además disfruto de una buena taza de café.</h3>
 </div> 
                
@@ -34,3 +34,5 @@
 ### 🙈 Mis Estadisticas:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexDiegoRosas&theme=dark&locale=es)](https://git.io/streak-stats)
+
+![Alex Diego Rosas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDiegoRosas&show_icons=true&theme=radical)
