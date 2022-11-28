@@ -12,9 +12,19 @@
 - 📧 Puedes contactarme por **rosasrias82@gamil.com**
 - ✏️Website [DevAlex](devalex.com)
 
-<div align=left>
+<div align="left">
     <h3>Lenguajes y Herramientas: </h3>
     <div>
-    
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CCS3" alt="CSS3" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="UNITY" alt="UNITY" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="VIM" alt="VIM" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40">
     </div>
 </div>
