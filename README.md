@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="250"/>
+    <h1 align="center"> Hola 👋 , Soy Alex Rosas</h1>
+    <h3 align="center>Un desarrollador web full stack de Perú, me encanta desarrollar aplicaciones web, los videojuegos y disfruto de una buena taza de café.</h3>
+</div> 
+---
+### 💻 Sobre Mí:
 
-<!--
-**AlexDiegoRosas/AlexDiegoRosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😺Preguntame sobre **PHP, Laravel, Python, JavaScript**
+- 👓Actualmente estoy aprendiendo **Vue, nodejs.** 
+- 📧 Puedes contactarme por **rosasrias82@gamil.com**
+- ✏️Website [DevAlex](devalex.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=left>
+    <h3>Lenguajes y Herramientas: </h3>
+    <div>
+    
+    </div>
+</div>
