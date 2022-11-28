@@ -36,3 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexDiegoRosas&theme=dark&locale=es)](https://git.io/streak-stats)
 
 ![Alex Diego Rosas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDiegoRosas&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDiegoRosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
