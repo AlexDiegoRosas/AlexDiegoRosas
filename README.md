@@ -35,4 +35,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexDiegoRosas&theme=dark&locale=es)](https://git.io/streak-stats)
 
-![Alex Diego Rosas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDiegoRosas&show_icons=true&theme=synthwave)
+![Alex Diego Rosas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDiegoRosas&show_icons=true&theme=dracula)
