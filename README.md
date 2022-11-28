@@ -28,3 +28,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40">
     </div>
 </div>
+
+---
+
+### 🙈 Mis Estadisticas:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexRosas&theme=dark)](https://git.io/streak-stats)
