@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center"> Hola 👋 , Soy Alex Diego Rosas </h1>
-    <h3 align="center"> Un desarrollador web full stack de Perú, me encanta desarrollar aplicaciones web, los videojuegos además disfruto de una buena taza de café.</h3>
+    <h3 align="center"> Un fanatico del desarrollo web frontend y videojuegos, soy de Perú</h3>
 </div> 
                
 ---
