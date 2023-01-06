@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center"> Hola 👋 , Soy Alex Diego Rosas </h1>
-    <h3 align="center"> Un fanatico del desarrollo web frontend y videojuegos</h3>
+    <h3 align="center"> Un fanatico del desarrollo web frontend y de videojuegos</h3>
 </div> 
                
 ---
